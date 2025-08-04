@@ -19,4 +19,4 @@ Python, Airtable, GPT-4, Markdown, iOS Shortcuts
 
 **Portfolio**: https://github.com/Zeke142/Portfolio
 
-**RideWise DashBoard**: https://github.com/Zeke142/RideWise/blob/main/Dashboard.png
+**RideWise Live DashBoard**: https://github.com/Zeke142/RideWise/blob/main/Dashboard.png
