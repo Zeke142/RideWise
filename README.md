@@ -17,6 +17,6 @@ Python, Airtable, GPT-4, Markdown, iOS Shortcuts
 - Trip dashboard screenshot  
 - Tag-based earnings chart
 
-**Repo Link**: https://github.com/Zeke142/RideWise
+**Portfolio**: https://github.com/Zeke142/Portfolio
 
 **RideWise DashBoard**: https://github.com/Zeke142/RideWise/blob/main/Dashboard.png
